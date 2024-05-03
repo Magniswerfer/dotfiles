@@ -1,0 +1,38 @@
+*{
+	border-radius: 3px;
+	border: none;
+}
+
+#window{
+	font-size: 14px;
+	font-family: "Roboto Mono Medium";
+	background-color: rgba(50, 50, 50, 0.9);
+	color: white;
+}
+
+#input{
+	background-color: rgba(50, 50, 50, 0.1);
+	color: white;
+	padding: 0.5em;
+}
+
+#text:selected{
+	color: #333333;
+}
+
+#entry:selected{
+	background-color: #a9a9a9;
+}
+
+#entry{
+	padding: 0.5em;
+	margin-left: 3px;
+}
+
+#text{
+	margin-left: 8px;
+}
+
+#scroll{
+	margin-top: 10px;
+}
