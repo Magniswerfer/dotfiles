@@ -5,7 +5,7 @@ return {
         -- Tree Sitter Setup
         local ts_config = require("nvim-treesitter.configs")
         ts_config.setup({
-            ensure_installed = {"lua", "javascript"},
+            ensure_installed = {"lua", "javascript", "markdown"},
             highlight = { enable = true },
             indent = { enable = true }
         })
