@@ -10,4 +10,6 @@ vim.cmd("set shiftwidth=4")
 vim.g.mapleader = " "
 vim.g.maplocalleader = "\\"
 
-
+--- Relative Line Numbers
+vim.wo.relativenumber = true
+vim.wo.number = true
