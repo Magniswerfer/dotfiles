@@ -1,9 +1,9 @@
 import = ["~/.config/alacritty/rose-pine-moon.toml" ]
 
 [window]
-decorations = "Transparent"
+#decorations = "Transparent"
 opacity = 0.9
 
 [font]
-normal = {family = "JetBrainsMonoNerdFont", style = "Regular"}
+normal = {family = "JetBrainsMono NF", style = "Regular"}
 
